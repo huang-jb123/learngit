@@ -2,4 +2,4 @@ Git is a disreibuted version cintrol system
 git is free software distributed under theGPL.
 xue xi shi yong Git chuang jian dev fen zhi
 chuan jian duo ge fen zhi jin xing he bing
-jiu zhe mo  zhao  ba 
+chuang jian duo ge fen zhi jin xing he bing ce shi.
