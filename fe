@@ -1,0 +1,173 @@
+[33mcommit 449b322645a73ca19c308e14fc07a4ea0fd20a8e[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Thu Aug 20 14:45:18 2020 +0800
+
+    wanwan
+
+[33mcommit a978c226c44a05275e5b68693efa23ef12d41b16[m[33m ([m[1;32mmaster[m[33m)[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Thu Aug 20 11:37:02 2020 +0800
+
+    hebing
+
+[33mcommit bec154b752f6401f69e41afe7f572d6dc0732de4[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Thu Aug 20 10:45:18 2020 +0800
+
+    add env
+
+[33mcommit 4376bc2ed1f023df18e564b0bee4669dc0ed2969[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: a4e717f f139fb2
+Author: huangjinbo <15191006924@163.com>
+Date:   Thu Aug 20 10:18:27 2020 +0800
+
+    chongtu
+
+[33mcommit a4e717f851ee8559968d9c7d485578733169bdba[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Thu Aug 20 10:12:53 2020 +0800
+
+    haoba
+
+[33mcommit f139fb2a64e815fdc3a704b86a6827a1f403e733[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Thu Aug 20 10:05:56 2020 +0800
+
+    fenzuhebing
+
+[33mcommit 7a66b944a5f67ecb1734b904500e335d40ecc9f7[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Thu Aug 20 09:56:49 2020 +0800
+
+    tijiao
+
+[33mcommit 2f3955c3de027f871c764ada10f7e0a222d616f2[m
+Merge: 5e65f10 05eda50
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 18:06:49 2020 +0800
+
+    Merge branch 'dev'
+    f Please enter a commit message to explain why this merge is necessary,
+
+[33mcommit 05eda5073001f5830299065dea8e591ff7224d42[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 18:06:10 2020 +0800
+
+    lala
+
+[33mcommit 5e65f101547a9d19be400ce7c414abbefee694f1[m
+Merge: bff6c35 a3dc444
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 17:53:12 2020 +0800
+
+    xiufu
+
+[33mcommit a3dc444b1a2c2efef63e5916f7d705be7136c18f[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 17:51:55 2020 +0800
+
+    xiufu
+
+[33mcommit bff6c35dd216230a5bae30ce2ba374056242b71b[m
+Merge: 9fcdbd9 d94e74b
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 17:28:02 2020 +0800
+
+    merge with no-ff
+
+[33mcommit d94e74b2f5437b4a61891b75e0f9d025c7339b75[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 17:27:07 2020 +0800
+
+    add merge
+
+[33mcommit 9fcdbd9d81414b8c50df1aedcf141e9af78fb47c[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 17:16:59 2020 +0800
+
+    and simple
+
+[33mcommit 12c72bb656e82b7e9ecfab46c074a1079ec2f8bf[m
+Merge: c8140b0 6e68464
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 17:02:16 2020 +0800
+
+    conflict fixed
+
+[33mcommit c8140b0ccc0b87d98f3ff5391f9b038d4f063f07[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 16:57:30 2020 +0800
+
+    & simple
+
+[33mcommit 6e6846463d283b611ae2661192e16d26f689ba2a[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 16:55:17 2020 +0800
+
+    AND simple
+
+[33mcommit f5c4666a9d0e1053af97154621e1f82dcd1b741a[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 16:34:05 2020 +0800
+
+    branch test
+
+[33mcommit 3229ba4b6d2c99ef7120904f5573169b45cdcda7[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 16:13:56 2020 +0800
+
+    branch test
+
+[33mcommit d8357b6f64d19ed3fc7e98802b687b1a49e55e25[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 14:04:08 2020 +0800
+
+    add readme.txt
+
+[33mcommit 22819a5bd05ccf72d4b240738a9a18b6d42421ca[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 13:51:27 2020 +0800
+
+    remove test.txt
+
+[33mcommit 5790d61b807fa963c4f718d417e1b49b7c8de3db[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 13:49:48 2020 +0800
+
+    add test.txt
+
+[33mcommit 3d2f9e1c45207d559751f9ff45c19fc20e8eb3c5[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 11:49:11 2020 +0800
+
+    git tracks changes
+
+[33mcommit 47962d9f1d92f02b7bda69e8e78ea15125023708[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 11:37:26 2020 +0800
+
+    git tracks changs
+
+[33mcommit c429f74e020549031560e5de34f50d31c78108b4[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 11:25:03 2020 +0800
+
+    understand how stage works
+
+[33mcommit 2539647081fa1684e7a971b868879dd2ac74decc[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 10:38:48 2020 +0800
+
+    append GPL
+
+[33mcommit e1be143082ad66687bded7f071a3df3d3de70473[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 10:15:12 2020 +0800
+
+    add distributed
+
+[33mcommit b00dec84eb91303489e1c537166b620e365151e0[m
+Author: huangjinbo <15191006924@163.com>
+Date:   Wed Aug 19 10:02:25 2020 +0800
+
+    wrote a readme file
